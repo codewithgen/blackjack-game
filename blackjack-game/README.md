@@ -27,7 +27,7 @@ This app is inspired by Blackjack card game created in [Scrimba Java Script Cour
 
 ## Screenshots
 
-![""](/images/screenshot.png)
+!["Picture of rendered game"](/blackjack-game/images/screenshot.png)
 
 
 ## What I learn
