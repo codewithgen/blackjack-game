@@ -1,6 +1,6 @@
 # Blackjack Game
 
-This is a card game to simulate Blackjack created by following a scrimba course on learning JavaScript.
+I created a web app to play Blackjack card game by following a scrimba course on JavaScript.
 
 
 ## Table of contents
