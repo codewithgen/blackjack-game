@@ -10,7 +10,7 @@ I created a web app to play Blackjack card game by following a scrimba course on
  - [Screenshot](/#Screenshot)
  - [What I learnt](/#WhatILearnt)
  - [Code Reference](/#codeReference)
-
+ - [Deployment](/#deployment)
 
 
 ## Sources
@@ -40,5 +40,10 @@ My key takeaways from this projects the importance of function and how they work
     for (let i = 0; i < cards.length; i++) {
         cardsEl.textContent += cards[i] + " "
     }>
+    
+    
+ 
+## Deployment
+I deployed by website by using [Netlify](https://scintillating-hamster-cf784e.netlify.app/)
 
 
