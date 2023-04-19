@@ -58,13 +58,6 @@ button:active {
     transform: scale(.96);
 }
 
-button:disabled {
-    border-color: #DDDDDD;
-    color: #DDDDDD;
-    cursor: not-allowed;
-    opacity: 1;
-}
-
 button:hover {
     border-color: #DDDDDD;
     color: #c92727ad;
